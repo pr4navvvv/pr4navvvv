@@ -89,3 +89,4 @@
     logo"/>-->
 <a href="https://mail.google.com/mail/u/0/pranav.prakas" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
