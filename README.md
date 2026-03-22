@@ -1,92 +1,18 @@
-<h1 align="center">Hello everyone,! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" /></h1>
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Pranav.<br>
-        Currently working on Data Analytics and Business Intelligence projects 📊 without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/pranav-prakash-0749b5345/">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn">
-    </a><br>
-      <!--<img src="https://komarev.com/ghpvc/?username=pr4navvvv &label=Profile%20views&color=0e75b6&style=flat" alt="pr4navvvv'sProfileViews">-->
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Data Analytics and Business Intelligence projects  <br>👯 I’m looking to collaborate on Data Analysis, Dashboard Development, and BI solutions  <br>🤝 I’m looking for help with Machine Learning and advanced analytics techniques  <br>🌱 I’m currently learning advanced Power BI, Python (Pandas, NumPy), and SQL optimization  <br>💬 Ask me about Data Analytics, Power BI dashboards, Excel, and data visualization  <br>⚡ Fun fact: I love transforming messy datasets into clear insights and impactful dashboards
 
-### Languages
-[![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/pr4navvvv)
-[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/pr4navvvv)
-[![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)](https://github.com/pr4navvvv)
-[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/pr4navvvv)
 
-### ML/DL
-[![NUMPY](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)](https://github.com/pr4navvvv)
-[![PANDAS](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)](https://github.com/pr4navvvv)
-[![SCIKIT LEARN](https://custom-icon-badges.demolab.com/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit)](https://github.com/pr4navvvv)
-[![TENSOR FLOW](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/pr4navvvv)
-[![KERAS](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/pr4navvvv)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pr4navvvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-prakash-0749b5345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav.prakas@gmail.com) 
 
-### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/pr4navvvv)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/pr4navvvv)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pr4navvvv&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pr4navvvv&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4navvvv&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Databases
-[![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/pr4navvvv)
-[![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/pr4navvvv)
+---
+[![](https://visitcount.itsvg.in/api?id=pr4navvvv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Visualization
-[![POWER BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)](https://github.com/pr4navvvv)
-[![TABLEAU](https://custom-icon-badges.demolab.com/badge/Tableau-black?style=for-the-badge&logo=tableaulogo)](https://github.com/pr4navvvv)
-[![MATPLOTLIB](https://custom-icon-badges.demolab.com/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/pr4navvvv)
-[![SEABORN](https://custom-icon-badges.demolab.com/badge/Seaborn-black?style=for-the-badge&logo=seaborn)](https://github.com/pr4navvvv)
-
-### IDEs/Editors
-[![VS CODE](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/pr4navvvv)
-[![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/pr4navvvv)
-[![GOOGLE COLAB](https://img.shields.io/badge/Google_Colab-black?&style=for-the-badge&logo=Google-Colab)](https://github.com/pr4navvvv)
-
-### Office Tools
-[![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/pr4navvvv)
-[![LIBRE OFFICE](https://img.shields.io/badge/Libre_Office-black?style=for-the-badge&logo=libreoffice)](https://github.com/pr4navvvv)
-[![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/Google_Docs-black?style=for-the-badge&logo=google--docs)](https://github.com/pr4navvvv)
-[![GOOGLE SHEETS](https://img.shields.io/badge/Google_Sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/pr4navvvv)
-[![GOOGLE SLIDES](https://custom-icon-badges.demolab.com/badge/Google_Slides-black?style=for-the-badge&logo=googleslides)](https://github.com/pr4navvvv)
-[![MICROSOFT OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-black?style=for-the-badge&logo=microsoftoutlook&logoColor=blue)](https://github.com/pr4navvvv)
-
-<!--### Education
-[![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/pr4navvvv)
-
-### OS
-[![WINDOWS](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/pr4navvvv)
-
-<details>
-<p align="center">
-  <a href="https://github.com/pr4navvvv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr4navvvv&theme=transparent" />
-  </a>
-</br>
-  <a href="https://github.com/pr4navvvv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=pr4navvvv&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/pr4navvvv">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pr4navvvv&theme=transparent" />
-  </a>
-    </br>
-  <a href="https://github.com/pr4navvvv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4navvvv&show_icons=true&layout=donut&langs_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0.5&count_weight=0.5" />
-  </a>
-</p>
-</details>
-
-- 🔭 I’m currently working on: <i><a Data Analytics and Business Intelligence projects </a></i>
-- 🌱 I’m currently learning: <b><i> Advanced Power BI, Python (Pandas, NumPy), and SQL optimization </i></b> 
-- 👯 I’m looking to collaborate on: <b><i> Data Analysis, Dashboard Development, and BI solutions  </i></b>
-- 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/pranav-prakash-0749b5345/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <!--<a href="https://mail.google.com/mail/u/0/pranav.prakas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail
-    logo"/>-->
-<a href="https://mail.google.com/mail/u/0/pranav.prakas" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
