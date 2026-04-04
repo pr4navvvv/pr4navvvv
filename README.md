@@ -1,5 +1,20 @@
-# About Me:
-🔭 I’m currently working on Data Analytics and Business Intelligence projects  <br>👯 I’m looking to collaborate on Data Analysis, Dashboard Development, and BI solutions  <br>🤝 I’m looking for help with Machine Learning and advanced analytics techniques  <br>🌱 I’m currently learning advanced Power BI, Python (Pandas, NumPy), and SQL optimization  <br>💬 Ask me about Data Analytics, Power BI dashboards, Excel, and data visualization  <br>⚡ Fun fact: I love transforming messy datasets into clear insights and impactful dashboards
+# About Me
+
+Computer Engineering student at the University of Mumbai, specializing in **Data Analytics and Business Intelligence**. I build end-to-end analytical pipelines — from raw data transformation to interactive dashboards — with a focus on delivering clear, actionable insights.
+
+**What I work with:**
+- **BI & Visualization:** Power BI, Looker Studio, DAX, Power Query
+- **Data & Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL Server, Excel
+- **Core Focus:** Data Modeling, KPI Reporting, Business Intelligence, Statistical Analysis
+
+**Notable work:**
+- Ranked **Top 20 nationally** in the Codebasics OTT Merger competition — built a subscriber churn dashboard and uncovered a 28% engagement drop among 18–25 users
+- Reduced manual reporting time by **50%** in a social media analytics project using DAX and Power Query automation
+- Competed in multiple **Onyx Data competitions**, delivering dashboards for customer loyalty and cross-platform content strategy
+
+Currently exploring the intersection of **cybersecurity** and **data-driven decision-making**.
+
+📫 pranav.prakas@gmail.com
 
 
 ## 🌐 Socials:
