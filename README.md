@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Data Analytics and Business Intelligence projects  <br>👯 I’m looking to collaborate on Data Analysis, Dashboard Development, and BI solutions  <br>🤝 I’m looking for help with Machine Learning and advanced analytics techniques  <br>🌱 I’m currently learning advanced Power BI, Python (Pandas, NumPy), and SQL optimization  <br>💬 Ask me about Data Analytics, Power BI dashboards, Excel, and data visualization  <br>⚡ Fun fact: I love transforming messy datasets into clear insights and impactful dashboards
 
 
